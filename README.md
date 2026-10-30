@@ -2,6 +2,8 @@
 
 An Omarchy theme inspired by the Moonforge visual style of Siege of Champions: moonlit blues, dark night, gold, and arcane light. Includes seven wallpapers from the game world.
 
+![Siege of Champions theme on an Omarchy desktop](preview.png)
+
 ## Install
 
 ```bash
